@@ -6,9 +6,9 @@ A full-stack MERN Movie Discovery Platform that enables users to explore trendin
 
 ## Live Demo
 
-Frontend: https://movie-verse-ten-sandy.vercel.app
+Frontend: https://movie-verse-blush.vercel.app
 
-Backend API: https://movieverse-3ukp.onrender.com
+Backend API: https://movieverse-qwuc.onrender.com
 
 ---
 

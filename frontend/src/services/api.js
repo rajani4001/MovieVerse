@@ -1,8 +1,6 @@
 import axios from 'axios';
 
-// Use relative path so Vite proxy handles it locally,
-// and the deployed frontend hits its own backend directly.
-const API_URL = '/api/';
+const API_URL = 'https://movieverse-qwuc.onrender.com/api/';
 
 const api = axios.create({
   baseURL: API_URL,

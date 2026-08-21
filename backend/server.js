@@ -29,6 +29,7 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:5173',
   'http://localhost:4173',
+  'https://movie-verse-blush.vercel.app'
 ];
 app.use(cors({
   origin: (origin, callback) => {
